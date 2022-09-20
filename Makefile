@@ -1,7 +1,7 @@
 # SPDX-License-Identifier: GPL-2.0
 VERSION = 5
 PATCHLEVEL = 15
-SUBLEVEL = 68
+SUBLEVEL = 69
 EXTRAVERSION = -linux4microchip+fpga-2022.09
 NAME = Trick or Treat
 
