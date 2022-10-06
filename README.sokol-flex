@@ -1,0 +1,8 @@
+This file identifies the origin of this branch for the vendor kernel port to
+Sokol Flex OS. This kernel was fetched from
+
+repo: https://github.com/linux4microchip/linux
+branch: linux-5.15-mchp+fpga
+hash: 82a69ddd171851559ca28bd76b4eb0b956a74b1f
+
+The kernel version at the time of this fork was: 5.15.62
